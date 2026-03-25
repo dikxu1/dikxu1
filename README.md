@@ -1,4 +1,4 @@
-- Hi, I am Dikshya Karki
+Hi, I am Dikshya Karki
 I’m a Graduate Computer Science student at University of Tennessee Chattanooga
 
 ## Skills
@@ -9,4 +9,5 @@ I’m a Graduate Computer Science student at University of Tennessee Chattanooga
 **Research Areas:** Medical Imaging, Graph Generation
 
 **Publication:** 
-*One Pixel Can Change the Diagnosis: Adversarial and Non-Adversarial Robustness and Uncertainty in Breast Ultrasound Classification. * AAAI SECUREAI4H 2025
+*One Pixel Can Change the Diagnosis: Adversarial and Non-Adversarial Robustness and Uncertainty in Breast Ultrasound Classification. * 
+**AAAI SECUREAI4H 2025 **
