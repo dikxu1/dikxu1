@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @dikxu1
-- 👀 I’m an Masters Student in Computer Science
-- The Repository contains my portforlio of datascience projects completed by me
-  for academic and self learning.
+- Hi, I am Dikshya Karki
+I’m a Graduate Computer Science student at University of Tennessee Chattanooga
 
+## Skills
+**Languages:** Python, SQL, Java, C++  
+**Deep Learning:** PyTorch,Tensorflow, ResNet50, GNNs, GANs
+**ML/DS:** Pandas, NumPy,Scikit-learn, LSTM, Transformers  
+**Visualization:** Matplotlib, Seaborn, Jupyter
+**Research Areas:** Medical Imaging, Graph Generation
 
+**Publication:** 
+*One Pixel Can Change the Diagnosis: Adversarial and Non-Adversarial Robustness and Uncertainty in Breast Ultrasound Classification. * AAAI SECUREAI4H 2025
